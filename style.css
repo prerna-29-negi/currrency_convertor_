@@ -1,0 +1,37 @@
+* {
+    margin: o;
+    padding: 0;
+
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    min-height: 100vh;
+    background-color: rgb(230, 242, 126);
+}
+.container{
+    padding: 2rem;
+    border-radius:1rem;
+     width: 40vh;
+
+}
+form{
+    margin: 2rem 0 1rem 0;
+}
+form{
+    form select,
+    button,
+    input,
+    width: 100%;
+outline: none;
+border: none;
+border-radius: 0.75rem;
+}
+form input{
+    border: 1px solid light gray;
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 0.5rem;
+}
+
